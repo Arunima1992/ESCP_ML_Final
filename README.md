@@ -1,4 +1,5 @@
 Demographic prediction
+
 When a user visits (one of ) our websites, we collect information about keywords extracted from
 the website's url. For each user, the frequency of visits per keyword per day is also stored. For
 example, suppose that a given user has visited the two following sites recently:
